@@ -5,4 +5,4 @@ REQUEST_HEADERS = {
                   "Chrome/90.0.4430.93 Safari/537.36"
 }
 
-GOGOANIME_BASE_URL = "https://gogoanime.pe"
+GOGOANIME_BASE_URL = "https://ww3.gogoanimes.fi/"
